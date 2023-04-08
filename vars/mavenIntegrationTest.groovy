@@ -1,3 +1,3 @@
 def call(){
-    bat 'mvn verify -DskipUnitTest'
+    bat 'mvn verify -DskipUnitTests'
 }
