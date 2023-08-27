@@ -1,3 +1,3 @@
 def call(){
-    sh 'mvn command'
+    sh 'mvn -v'
 }
